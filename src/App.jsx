@@ -50,7 +50,7 @@ function App() {
   };
   return (
     <div className="container">
-      <h2>Word Scramble</h2>
+      <h2>Engluz - Unscramble Game</h2>
       <div className="content">
         <p className="word">{word?.word}</p>
         <div className="details">
